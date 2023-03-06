@@ -1,0 +1,58 @@
+/* Set global styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Style the page header */
+  header {
+    background-color: #00bfff;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 36px;
+  }
+  
+  /* Style the main content */
+  main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  main p {
+    margin: 0 0 20px;
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  
+  /* Style the page footer */
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  footer p {
+    margin: 0;
+    font-size: 14px;
+  }
+  
+  /* Style links */
+  a {
+    color: #00bfff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
